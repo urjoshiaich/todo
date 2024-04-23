@@ -1,14 +1,14 @@
-# ToDo App
+# Basic Todo Project with Auth
 
-MERN stack webapp for managing your todos which uses JWT for auth 
+MERN stack webapp for managing your todos which uses JWT for auth <br /><br />
 
 ## Make sure to put your details in the .env file in backend folder
 
-### ATLAS_URI = your mongoDB url
-### JWT_SECRET_KEY= your jwt secret key
-### PORT= the port you want to use for backend
+### `ATLAS_URI` = your mongoDB url <br />
+### `JWT_SECRET_KEY` = your jwt secret key <br />
+### `PORT` = the port you want to use for backend <br />
 
-also change the port according in frontend/src/api/index.js
+also change the port according in frontend/src/api/index.js <br /><br />
 
 ## In the project directory, you can run:
 
