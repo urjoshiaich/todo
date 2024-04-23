@@ -1,4 +1,4 @@
-export const url = "${process.env.ATLAS_URL}/api";
+export const url = "https://localhost:3000/api";
 
 export const setHeaders = () => {
   const headers = {
